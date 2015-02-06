@@ -41,9 +41,9 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 2 3
 Title "Videobrick"
-Date "2015-02-05"
-Rev "alpha 4"
-Comp "open hardware"
+Date "2015-02-06"
+Rev "alpha 5"
+Comp "OTELOeGen"
 Comment1 "by Mechatronik Karl Zeilhofer"
 Comment2 "Transfered from Eagle to KiCad"
 Comment3 ""

@@ -41,9 +41,9 @@ $Descr B 17000 11000
 encoding utf-8
 Sheet 1 3
 Title "Videobrick"
-Date "2015-02-05"
-Rev "alpha 4"
-Comp ""
+Date "2015-02-06"
+Rev "alpha 5"
+Comp "OTELOeGen"
 Comment1 "by Mechatronik Karl Zeilhofer"
 Comment2 "Transfered from Eagle to KiCad"
 Comment3 ""

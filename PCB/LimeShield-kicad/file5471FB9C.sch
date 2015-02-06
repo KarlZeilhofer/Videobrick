@@ -41,9 +41,9 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 3 3
 Title "Videobrick"
-Date "2015-02-05"
-Rev "alpha 4"
-Comp ""
+Date "2015-02-06"
+Rev "alpha 5"
+Comp "OTELOeGen"
 Comment1 "by Mechatronik Karl Zeilhofer"
 Comment2 "Transfered from Eagle to KiCad"
 Comment3 ""
@@ -353,10 +353,10 @@ U 1 1 54722431
 P 2750 5900
 AR Path="/5471FB42/5471FB9D/54722431" Ref="C?"  Part="1" 
 AR Path="/54724AE0/54722431" Ref="C?"  Part="1" 
-AR Path="/54725066/54722431" Ref="C42"  Part="1" 
-F 0 "C42" H 2750 6000 40  0000 L CNN
+AR Path="/54725066/54722431" Ref="C41"  Part="1" 
+F 0 "C41" H 2750 6000 40  0000 L CNN
 F 1 "10u" H 2756 5815 40  0000 L CNN
-F 2 "Capacitors_SMD:C_0402" H 2788 5750 30  0001 C CNN
+F 2 "Capacitors_SMD:C_0805" H 2788 5750 30  0001 C CNN
 F 3 "" H 2750 5900 60  0000 C CNN
 	1    2750 5900
 	0    -1   -1   0   
@@ -366,10 +366,10 @@ L C C?
 U 1 1 547224CB
 P 3050 6100
 AR Path="/54724AE0/547224CB" Ref="C?"  Part="1" 
-AR Path="/54725066/547224CB" Ref="C41"  Part="1" 
-F 0 "C41" H 3050 6200 40  0000 L CNN
+AR Path="/54725066/547224CB" Ref="C42"  Part="1" 
+F 0 "C42" H 3050 6200 40  0000 L CNN
 F 1 "10u" H 3056 6015 40  0000 L CNN
-F 2 "Capacitors_SMD:C_0402" H 3088 5950 30  0001 C CNN
+F 2 "Capacitors_SMD:C_0805" H 3088 5950 30  0001 C CNN
 F 3 "" H 3050 6100 60  0000 C CNN
 	1    3050 6100
 	0    -1   -1   0   
@@ -519,7 +519,7 @@ Wire Wire Line
 Wire Wire Line
 	11800 5750 13800 5750
 Wire Wire Line
-	11100 4550 9700 4550
+	9700 4550 11100 4550
 Wire Wire Line
 	9700 4550 9700 4250
 Wire Wire Line
